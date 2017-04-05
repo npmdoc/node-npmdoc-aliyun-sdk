@@ -6,7 +6,7 @@
 <tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
-<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-05T23:47:32Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-05T23:49:10Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="122">aliyun-sdk</tspan>
 <tspan x="10" y="138"></tspan>
 <tspan x="10" y="154"></tspan>
@@ -14,57 +14,57 @@
 <tspan x="10" y="186">c-aliyun-sdk/test.js</tspan>
 <tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/test-report.json to te\</tspan>
 <tspan x="10" y="218">st-report</tspan>
-<tspan x="10" y="234">&gt; server listening on http-port 62396</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 46379</tspan>
 <tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/apidoc.html</tspan>
 <tspan x="10" y="266"></tspan>
 <tspan x="10" y="282"></tspan>
 <tspan x="10" y="298">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/e\</tspan>
-<tspan x="10" y="314">lectron.15b408425010.b1963677d1e4e.html</tspan>
+<tspan x="10" y="314">lectron.15b4085a5150.5c182d5ac8938.html</tspan>
 <tspan x="10" y="330"></tspan>
 <tspan x="10" y="346">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="362">merging file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/test-report.json to te\</tspan>
 <tspan x="10" y="378">st-report</tspan>
 <tspan x="10" y="394">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="410">[4888:0405/234734:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="426">[4888:0405/234734:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="442">[4905:0405/234734:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="410">[6191:0405/234912:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="426">[6191:0405/234912:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="442">[6209:0405/234912:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="458">in process gpu-process. </tspan>
-<tspan x="10" y="474">[4888:0405/234734:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="490"></tspan>
-<tspan x="10" y="506">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/apidoc.html</tspan>
-<tspan x="10" y="522"></tspan>
-<tspan x="10" y="538">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
-<tspan x="10" y="554">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
-<tspan x="10" y="570">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="474">[6191:0405/234912:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="490">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="506">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="522">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="538"></tspan>
+<tspan x="10" y="554">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/e\</tspan>
+<tspan x="10" y="570">lectron.15b4085a8110.3f821ddca8298.html</tspan>
 <tspan x="10" y="586"></tspan>
-<tspan x="10" y="602">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/e\</tspan>
-<tspan x="10" y="618">lectron.15b4084299e0.5e4c5419fc11.html</tspan>
+<tspan x="10" y="602"></tspan>
+<tspan x="10" y="618">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/apidoc.html</tspan>
 <tspan x="10" y="634"></tspan>
 <tspan x="10" y="650">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="666">&gt; merging file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/test-report.json to \</tspan>
-<tspan x="10" y="682">test-report</tspan>
-<tspan x="10" y="698">server listening on http-port 37546</tspan>
-<tspan x="10" y="714">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="730">[4946:0405/234736:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="746">[4946:0405/234736:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="762">[4975:0405/234736:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="778">in process gpu-process. </tspan>
-<tspan x="10" y="794">[4946:0405/234736:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="666">merging file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/test-report.json to te\</tspan>
+<tspan x="10" y="682">st-report</tspan>
+<tspan x="10" y="698">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="714">[6252:0405/234913:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="730">[6252:0405/234913:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="746">[6279:0405/234914:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="762">in process gpu-process. </tspan>
+<tspan x="10" y="778">&gt; [6252:0405/234914:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="794">server listening on http-port 49237</tspan>
 <tspan x="10" y="810"></tspan>
-<tspan x="10" y="826">browserTest - opened url http://127.0.0.1:62396?modeTest=1</tspan>
+<tspan x="10" y="826">browserTest - opened url http://127.0.0.1:46379?modeTest=1</tspan>
 <tspan x="10" y="842"></tspan>
-<tspan x="10" y="858">[4946:0405/234737:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="858">[6252:0405/234915:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="874">|</tspan>
 <tspan x="10" y="890">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="906">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="922">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="938">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="954">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="970">", source: file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/electron.15b4084299e0.5e4\</tspan>
-<tspan x="10" y="986">c5419fc11.html (250)</tspan>
-<tspan x="10" y="1002">[4946:0405/234737:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
-<tspan x="10" y="1018">l", source: file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/electron.15b4084299e0.5e\</tspan>
-<tspan x="10" y="1034">4c5419fc11.html (250)</tspan>
+<tspan x="10" y="970">", source: file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/electron.15b4085a8110.3f8\</tspan>
+<tspan x="10" y="986">21ddca8298.html (250)</tspan>
+<tspan x="10" y="1002">[6252:0405/234915:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1018">l", source: file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/electron.15b4085a8110.3f\</tspan>
+<tspan x="10" y="1034">821ddca8298.html (250)</tspan>
 <tspan x="10" y="1050">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1066"></tspan>
 <tspan x="10" y="1082">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/\</tspan>
@@ -86,7 +86,7 @@
 <tspan x="10" y="1338">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/\</tspan>
 <tspan x="10" y="1354">build/screenCapture.npmTest.browser..html</tspan>
 <tspan x="10" y="1370"></tspan>
-<tspan x="10" y="1386">browserTest - exit-code 0 - http://127.0.0.1:62396?modeTest=1</tspan>
+<tspan x="10" y="1386">browserTest - exit-code 0 - http://127.0.0.1:46379?modeTest=1</tspan>
 <tspan x="10" y="1402"></tspan>
 <tspan x="10" y="1418"></tspan>
 <tspan x="10" y="1434">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/coverage\</tspan>
@@ -114,8 +114,8 @@
 <tspan x="10" y="1786">st-report</tspan>
 <tspan x="10" y="1802"></tspan>
 <tspan x="10" y="1818">-------------------------------------------------------</tspan>
-<tspan x="10" y="1834">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-05T23:47:11.176Z</tspan>
-<tspan x="10" y="1850">|   38841 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="1834">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-05T23:48:30.775Z</tspan>
+<tspan x="10" y="1850">|   57111 ms            0 failed        6 passed      |</tspan>
 <tspan x="10" y="1866">-------------------------------------------------------</tspan>
 <tspan x="10" y="1882"></tspan>
 <tspan x="10" y="1898">created test-report file:///home/travis/build/npmdoc/node-npmdoc-aliyun-sdk/tmp/build/test-repor\</tspan>
@@ -125,6 +125,6 @@
 <tspan x="10" y="1962">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="1978"></tspan>
 <tspan x="10" y="1994"></tspan>
-<tspan x="10" y="2010">[MODE_BUILD=npmTest] - 2017-04-05T23:47:52Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="2010">[MODE_BUILD=npmTest] - 2017-04-05T23:49:30Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
